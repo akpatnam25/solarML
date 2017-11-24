@@ -1,1 +1,1 @@
-# solarML
+Yu-Zhang Research Group 
